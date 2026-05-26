@@ -25,10 +25,6 @@ ml_course_labs_repository/
 │   ├── models/
 │   └── reports/
 │
-├── docs/
-│   ├── lab1_report.docx
-│   └── lab2_report.docx
-│
 ├── requirements.txt
 ├── .gitignore
 └── README.md
