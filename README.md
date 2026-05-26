@@ -81,9 +81,6 @@ py project.py
 py predict.py
 ```
 
-## Отчеты
-
-DOCX-отчеты находятся в папке `docs/`.
 
 ## Примечание
 
