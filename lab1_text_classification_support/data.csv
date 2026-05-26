@@ -1,0 +1,151 @@
+text,category
+I need to cancel my purchase,Refund Request
+The site is very slow,Technical Error
+Login keeps failing,Account Access
+There is a bug after latest update,Technical Error
+I did not receive money back,Refund Request
+Please return my money,Refund Request
+The mobile app keeps crashing,Technical Error
+Bank transfer failed,Payment Problem
+My payment is still pending,Payment Problem
+The checkout page shows payment error,Payment Problem
+The product is defective and I need a refund,Refund Request
+The refund deadline has passed,Refund Request
+My order has not arrived,Delivery Issue
+The site does not work on mobile,Technical Error
+I cannot access my profile,Account Access
+I was charged twice,Payment Problem
+Button does not respond,Technical Error
+The delivery company lost my order,Delivery Issue
+I want to return the wrong product,Refund Request
+Payment failed during checkout,Payment Problem
+The login form shows invalid credentials,Account Access
+The cart page is not loading,Technical Error
+The item was not as described,Refund Request
+The page is not loading,Technical Error
+The search function does not work,Technical Error
+Images are not displayed,Technical Error
+Tracking says delivered but I received nothing,Delivery Issue
+I cannot complete the purchase,Payment Problem
+I get unexpected system exception,Technical Error
+My account is locked,Account Access
+I want a refund,Refund Request
+Refund request is still pending,Refund Request
+I see a duplicate charge,Payment Problem
+The system is unavailable,Technical Error
+The website returns an error message,Technical Error
+My profile page is unavailable,Account Access
+I need to restore account access,Account Access
+I need money back for missing item,Refund Request
+The app logs me out automatically,Account Access
+I changed my mind and want my money back,Refund Request
+I sent the item back,Refund Request
+I cannot change my password,Account Access
+Password reset does not work,Account Access
+Shipment status is unknown,Delivery Issue
+I cannot sign in after update,Account Access
+I want to cancel this transaction,Refund Request
+I paid but the order status is unpaid,Payment Problem
+The app update caused errors,Technical Error
+I cannot verify my email,Account Access
+I want to return this item,Refund Request
+Server error 500 appears,Technical Error
+My account was suspended,Account Access
+How can I get a refund,Refund Request
+I cannot pay for my order,Payment Problem
+I cannot confirm my phone number,Account Access
+My shipment is delayed,Delivery Issue
+My package arrived too late,Delivery Issue
+I received only part of my order,Delivery Issue
+Please process my refund,Refund Request
+The checkout process failed,Payment Problem
+The courier did not deliver my parcel,Delivery Issue
+Wrong currency was charged,Payment Problem
+I need help with missing delivery,Delivery Issue
+The app cannot connect to server,Technical Error
+Card payment does not go through,Payment Problem
+The interface does not load correctly,Technical Error
+The refund amount is incorrect,Refund Request
+Refund status has not changed,Refund Request
+The application shows a white screen,Technical Error
+I want compensation for this order,Refund Request
+My card was declined,Payment Problem
+Account access denied,Account Access
+The courier could not find my address,Delivery Issue
+Courier left my package at wrong address,Delivery Issue
+Payment page is not working,Payment Problem
+The product filter is broken,Technical Error
+Authentication error appears,Account Access
+My promo code changed the total incorrectly,Payment Problem
+App freezes during startup,Technical Error
+Two factor authentication failed,Account Access
+The verification code is not arriving,Account Access
+Website shows an error,Technical Error
+My username is not accepted,Account Access
+I cannot log in with Google,Account Access
+The return label does not work,Refund Request
+The reset link expired,Account Access
+My account security check failed,Account Access
+Package has not been delivered yet,Delivery Issue
+Please issue a refund,Refund Request
+My account was blocked unexpectedly,Account Access
+The application stops responding,Technical Error
+I cannot login to my account,Account Access
+The shipment has not moved for days,Delivery Issue
+I want to return the product,Refund Request
+I cannot add a new payment method,Payment Problem
+My refund was rejected incorrectly,Refund Request
+The return request is not processed,Refund Request
+Billing amount is incorrect,Payment Problem
+The website crashes after login,Technical Error
+I did not get my order on time,Delivery Issue
+The password reset email is missing,Account Access
+The courier never called me,Delivery Issue
+I returned the product but got no refund,Refund Request
+The payment button does nothing,Payment Problem
+I forgot my password,Account Access
+Package was lost during delivery,Delivery Issue
+There is a technical problem with the app,Technical Error
+The transaction did not complete,Payment Problem
+Please cancel my order,Refund Request
+Payment confirmation was not received,Payment Problem
+The browser console shows an error,Technical Error
+The payment system rejected my card,Payment Problem
+Tracking number does not update,Delivery Issue
+The payment gateway crashed,Payment Problem
+The parcel was damaged during delivery,Delivery Issue
+My order has been delayed for a week,Delivery Issue
+Application crashes instantly,Technical Error
+The website is broken,Technical Error
+The order was sent to the wrong city,Delivery Issue
+Order tracking is not available,Delivery Issue
+The page reloads endlessly,Technical Error
+The invoice amount is wrong,Payment Problem
+Payment verification failed,Payment Problem
+Please approve my return request,Refund Request
+The package was returned without notice,Delivery Issue
+I lost access to my email,Account Access
+Login page does not open,Account Access
+Where is my package,Delivery Issue
+I need a refund for damaged item,Refund Request
+My account details disappeared,Account Access
+I was billed for a canceled order,Payment Problem
+I need help recovering my account,Account Access
+There is an error with billing,Payment Problem
+The cart button is broken,Technical Error
+Product page opens blank,Technical Error
+There is a problem with my transaction,Payment Problem
+The receipt was not generated,Payment Problem
+My parcel is missing,Delivery Issue
+Order is stuck in transit,Delivery Issue
+The delivery date keeps changing,Delivery Issue
+I cannot update account settings,Account Access
+Delivery failed again,Delivery Issue
+Checkout page freezes,Technical Error
+The box arrived empty,Delivery Issue
+Money was taken but order was not created,Payment Problem
+My card was charged without confirmation,Payment Problem
+Refund has not arrived,Refund Request
+Cancel the order and refund me,Refund Request
+Delivery address was changed incorrectly,Delivery Issue
+The delivery time is incorrect,Delivery Issue

@@ -1,0 +1,90 @@
+# Лабораторные работы по машинному обучению
+
+Репозиторий содержит две лабораторные работы по дисциплине **«Машинное обучение в системах искусственного интеллекта»**.
+
+## Структура репозитория
+
+```text
+ml_course_labs_repository/
+├── lab1_text_classification_support/
+│   ├── data.csv
+│   ├── code.py
+│   ├── predict.py
+│   ├── requirements.txt
+│   ├── README.md
+│   ├── models/
+│   └── reports/
+│
+├── lab2_streaming_user_profiles/
+│   ├── data/
+│   │   └── streaming_users.csv
+│   ├── project.py
+│   ├── predict.py
+│   ├── requirements.txt
+│   ├── README.md
+│   ├── models/
+│   └── reports/
+│
+├── docs/
+│   ├── lab1_report.docx
+│   └── lab2_report.docx
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
+
+## Лабораторная работа 1
+
+**Тема:** автоматическая классификация обращений пользователей интернет-магазина по типу проблемы.
+
+Основные методы:
+
+- TF-IDF;
+- Random Forest;
+- classification report;
+- confusion matrix;
+- сохранение модели и векторизатора.
+
+Запуск:
+
+```bash
+cd lab1_text_classification_support
+py -m pip install -r requirements.txt
+py code.py
+py predict.py
+```
+
+## Лабораторная работа 2
+
+**Тема:** анализ профилей пользователей стримингового сервиса методами машинного обучения.
+
+Основные методы:
+
+- KMeans;
+- DBSCAN;
+- Agglomerative Clustering;
+- PCA;
+- t-SNE;
+- Random Forest;
+- Logistic Regression;
+- KNN;
+- бинарная классификация оттока;
+- многоклассовая классификация типа пользователя.
+
+Запуск:
+
+```bash
+cd lab2_streaming_user_profiles
+py -m pip install -r requirements.txt
+py project.py
+py predict.py
+```
+
+## Отчеты
+
+DOCX-отчеты находятся в папке `docs/`.
+
+## Примечание
+
+Файлы моделей `.pkl` могут быть пересозданы запуском скриптов обучения.
